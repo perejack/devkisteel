@@ -34,7 +34,7 @@ const App = () => (
           </main>
           <Footer />
         </div>
-        <WhatsAppButton phoneNumber="+2547050940201" />
+        <WhatsAppButton phoneNumber="+254750940201" />
       </Router>
     </TooltipProvider>
   </QueryClientProvider>
